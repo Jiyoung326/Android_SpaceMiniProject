@@ -21,7 +21,7 @@ import java.util.Date;
 
 public class MarsActivity extends AppCompatActivity {
     private static final String END_POINT_MARS = "https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?earth_date=2015-6-3&api_key=%s";
-    private static final String API_KEY_APOD = "FGt5edxgbelZQw1YzqJgrvjFEGraFd5drnsPvRFf";
+    private static final String API_KEY_APOD = "key";
 
     RecyclerView recyclerView;
     MarsInfoAdapter adapter;
